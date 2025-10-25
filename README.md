@@ -17,23 +17,24 @@ The dataset is organized hierarchically by language:
 
 dataset/
 ├── English/
-│ ├── Stories/
-│ │ ├── eng_story_0001.txt
-│ │ ├── eng_story_0002.txt
-│ │ └── ...
-│ └── Images/
-│ ├── eng_story_0001_01.jpg
-│ ├── eng_story_0001_02.jpg
-│ └── ...
+│   ├── Stories/
+│   │   ├── eng_story_0001.txt
+│   │   ├── eng_story_0002.txt
+│   │   └── ...
+│   └── Images/
+│       ├── eng_story_0001_01.jpg
+│       ├── eng_story_0001_02.jpg
+│       └── ...
 ├── Hindi/
-│ ├── Stories/
-│ │ ├── hin_story_0001.txt
-│ │ ├── hin_story_0002.txt
-│ │ └── ...
-│ └── Images/
-│ ├── hin_story_0001_01.jpg
-│ ├── hin_story_0001_02.jpg
-│ └── ...
+│   ├── Stories/
+│   │   ├── hin_story_0001.txt
+│   │   ├── hin_story_0002.txt
+│   │   └── ...
+│   └── Images/
+│       ├── hin_story_0001_01.jpg
+│       ├── hin_story_0001_02.jpg
+│       └── ...
+
 
 
 - **Stories:** Narrative text files (`.txt`) with zero-padded identifiers.
