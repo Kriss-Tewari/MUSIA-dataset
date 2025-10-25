@@ -15,6 +15,7 @@ Existing story visualization datasets are predominantly English and aligned with
 
 The dataset is organized hierarchically by language:
 
+```text
 dataset/
 ├── English/
 │   ├── Stories/
@@ -34,6 +35,7 @@ dataset/
 │       ├── hin_story_0001_01.jpg
 │       ├── hin_story_0001_02.jpg
 │       └── ...
+```
 
 
 
