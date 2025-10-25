@@ -49,10 +49,10 @@ We provide a baseline experiment in `baseline.py` to evaluate story visualizatio
 - Running a simple text-to-image model
 - Computing baseline metrics for character consistency and narrative coherence
 
-##License
+## License
 
 This dataset is released under the CC BY-NC 4.0 License, for research and non-commercial use.
 
-##Contributions
+## Contributions
 
 We welcome contributions, feedback, and suggestions to expand the dataset or improve benchmarking experiments.
