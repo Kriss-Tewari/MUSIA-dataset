@@ -1,0 +1,155 @@
+Cody Cat has built himself an enormous Pixel Palace for all of his Code Cat friends! 
+He made it the palace of his dreams. 
+It has great big poles for scratching. 
+It has goldfish ponds for watching the fish. 
+But - UH OH!
+
+Quick, Cody Cat, what's the problem? 
+Well, the walls are all pixelated! They're glitching in a scrambly, blocky mess! 
+So what are you going to do, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF the walls are scrambled, THEN reorganise the pixels back into their original pattern. 
+if (walls are scrambled) { reorganize pixels into original pattern; } 
+Wow, Cody Cat! Now the Pixel Palace looks just like how you made it!
+
+But... Cody Cat? 
+Yeah? 
+Have you noticed something...? 
+What? 
+Umm... the lights. Look at them. They're flickering on and off randomly. 
+Oh no... 
+What are you going to do, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF the lights flicker, THEN set light timing to stable interval. 
+if (lights flicker) { 
+set light timing to stable 
+interval; 
+} 
+Wow, Cody Cat! You sure fixed those lights! Nice and stable.
+
+Now if you want to come with me, I'm going you our enormous ballroom... to show you 
+Uh... Cody Cat? 
+What? 
+What are you doing? 
+Nothing! Nothing... ahhh, well... 
+Well, what? 
+The door's not opening. 
+The door's not opening? But I thought you made this palace! 
+I did! I mean, I can fix it again... 
+And how are you going to do that, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF the door is stuck, THEN reset door mechanism. 
+if (door is stuck) { 
+reset door mechanism; 
+} 
+Wow, Cody Cat! Now it works! Nice and smooth!
+
+So here is our amazing ballroom. I made the floor a beautiful green carpet, and the walls are purple, like my favourite flowers... 
+Uhh... Cody Cat? 
+What? 
+The carpet in here is yellow? The walls are orange? 
+Argh! They weren't like that before! 
+So what are you going to do, Cody Cat? 
+Well, I guess I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF colors switched, THEN revert colors to original palette... 
+if (colors switched) { revert colors to original palette; 
+} 
+Wow, Cody Cat! Those colours look great in here!
+
+Now if you come into the kitchen, you'll see these great fish-shaped tiles I put on the floor... 
+Just wait up, Cody Cat. 
+What is it this time? 
+Well... the floor has vanished here. And there! It's in patches! 
+Oh no. 
+So what are you going to do, Cody Cat? 
+I'm just going to have to code! 
+How are you going to do it?
+
+I'm going to say IF floor is missing, THEN generate floor tiles. 
+if (floor is missing) { generate floor tiles; 
+} 
+Wow, Cody Cat! Those fish tiles are really sigma! They make the floor look like a sea!
+
+But hang on Cody. There's something weird about this kitchen... 
+What? 
+Well, the tables are floating in the air! 
+And? 
+The knives and forks are invisible! 
+And? 
+Well, do you think this is a good way for a kitchen to be? 
+I guess not... 
+So what are you going to do, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF table levitates, THEN reset table to the ground. 
+if (table levitates) { 
+reset table to ground; 
+} 
+And IF utensils invisible, THEN make utensils visible. 
+if (utensils invisible) { make utensils visible; 
+} 
+Wow, Cody Cat! It sure is nice to have a kitchen table to sit at, and a knife and fork to use, to eat this delicious pie you've cooked!
+
+Yes, and if you look into this mirror... 
+Uh oh. Where am I Cody? 
+Umm... you're with me? 
+And where are we? 
+We seem to be on the stairs. 
+How did we get here? 
+I think we teleported here. I had this problem yesterday and forgot to fix it. The palace mirror teleports anyone who looks into it... did you look into it? 
+Of course I did. You told me too. 
+Skibidi. 
+And why are these stairs just spiralling around and around forever in an endless loop? 
+Well... I guess I don't know. 
+So what are you going to do, Cody Cat? 
+I'm going to code, of course! 
+How are you going to do it?
+
+I'm going to say IF stairs loop, THEN break loop and set end point. 
+if (stairs loop) { 
+break loop and set end point; 
+} 
+And I'm going to say IF mirror teleports, THEN disable teleportation function. 
+if (mirror teleports) { 
+disable teleportation function 
+} 
+Wow, Cody Cat! I've never been so happy to be back in a kitchen, rather than stuck in an endless stair loop!
+
+So don't look at the mirror. Look over here, at the paintings in the lounge room. What do you think of those? 
+I can't really tell, because the books are flying around. Look at them! They're spinning off the shelves! 
+Argh rat whiskers. Alright, alright... 
+So what are you going to do, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+I'm going to say IF books are flying, THEN stop book movement. 
+if (books are flying) { stop book movement 
+} 
+Wow, Cody Cat! The books have all stopped flying. But now they're all on the floor! 
+Let's just put them back up ourselves. It's easier!
+
+Oops! Is that the time? Cody Cat, I have to go home! Not that it hasn't been great seeing your Pixel Palace! 
+You should be really proud of your... 
+Uhhh... Cody Cat? 
+Cody Cat? 
+Why are we walking so fast out the door? 
+It's like time is moving too fast in here! 
+What's going on?
+
+Sorry! I think time has glitched. I'll fix it! 
+Here, watch this. 
+if (time is unstable) { 
+set time flow to normal speed 
+}
+
+Phew, Cody Cat! I'm glad to be back outside. 
+You have fun with your Pixel Palace. I'll visit another time... 
+NORMAL SPEED time, that is!

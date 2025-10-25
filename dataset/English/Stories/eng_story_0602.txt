@@ -1,0 +1,170 @@
+Cody Cat, what's the problem? 
+Well, it just never stops raining in the Cretaceous period! 
+Is that such a problem? 
+Look how wet I am! You know cats hate water, right? 
+Yes... 
+And there's mud everywhere! It's going to take AGES to lick it off! 
+So what are you going to do, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF it rains for more than 12 hours, THEN stop rain. 
+if (rain > 12 hours) { 
+stop rain; 
+} 
+Wow, Cody Cat! You did it! I can even see the sun now!
+
+But... Cody Cat? 
+Yeah? 
+Have you noticed something...? 
+What? 
+Umm... Now it's getting hot! 
+Well, maybe a little... 
+You have fur. You must feel it more than me! 
+Maybe you're right. 
+What do you think is happening? It feels like the temperature is rising! We don't want to cause a dangerous heatwave! 
+Oh no... 
+What are you going to do, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF the barometer reading goes higher than heatwave temperature, THEN decrease temperature. 
+if (reading > heatwave temperature) { 
+decrease temperature; 
+} 
+Great, Cody Cat! I'm feeling a bit cooler now!
+
+Now I think we should start exploring... 
+Uh... Cody Cat? 
+What? 
+Can you see lightning over there? 
+Oh yes! Wow, there's a lot of it! 
+It seems to be coming closer... 
+Say that again? I can't hear you over the thunder! 
+What's happening, Cody Cat? This seems like a glitch. I've never seen so many thunderstorms, ever! 
+Hmm... yes. Yes, I think it's a thunderstorm glitch. 
+Can you fix it? 
+Of course I can fix it! 
+And how are you going to do that, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF the thunderstorm is frequent, THEN set the storm timer to less frequent. 
+if (thunderstorm frequent) { 
+set storm timer to less frequent; 
+} 
+Wow, Cody Cat! That did it! I can hear you again!
+
+Anyway, let's go and check out the triceratops, I really want to see them... 
+Uh... Cody Cat? 
+What? 
+Have you noticed something? 
+What? 
+Well, that lake for example. It's frozen solid. 
+Oh, yes... it is. 
+And it's snowing! 
+Argh! The Cretaceous is supposed to be tropical! 
+What do you think has happened, Cody Cat? 
+Err... I might just have triggered an Ice Age... 
+So what are you going to do, Cody Cat? 
+Well, I guess I'm going to code! 
+How are you going to do it?
+
+I'm going to say IF Ice Age is activated, THEN restore normal climate. 
+if (Ice Age activated) { 
+restore normal climate; 
+} 
+Thank goodness, Cody Cat! Those Triceratops would have turned into 
+Icy Pops!
+
+Shh! I've just seen a whole group of Spinosaurus tiptoe past! 
+Wow, Cody. That's really cool! 
+Yes! If we just follow them... 
+Oh no, Cody! What just happened?! 
+Help! I'm spinning in the air! 
+Oh no! And look over towards the horizon. It's a whole group of tornados! What could possibly have caused that? 
+I suppose it's never good to play too much with the weather... 
+Watch out Cody Cat! You don't want it to whisk you away! 
+I guess I'm just going to have to code! Fast! 
+How are you going to do it?
+
+I'm going to say IF a tornado is detected, THEN dissipate tornado. 
+if (tornado detected) { dissipate tornado; 
+} 
+Phew, Cody Cat! I'm glad it put you back on the ground, and not in that giant conifer!
+
+Right! Now we're back on the ground. 
+Now what was it that you wanted to do? 
+Literally all I want to see is a triceratops.... I think I can hear a herd. 
+Oh good! I want to see a triceratops too! 
+Just around this tree, and... Argh! 
+What's up, Cody Cat? 
+Well they're just there. But I can't see them! 
+Why can't you see them? 
+This big, thick, heavy mist has just swooped in! I can hear them, but I can't see a thing! 
+Maybe the tornado brought it in... 
+Maybe... 
+So what are you going to do, Cody Cat? 
+So I'm going to code, of course! 
+How are you going to do it?
+
+I'm going to say IF fog persists, THEN clear fog. 
+if (fog persists) { clear fog; 
+} 
+Wow, Cody Cat! We can see them 
+ALL now!
+
+Except... 
+What is it, Cody? 
+Well... they can see us too. 
+Oh. Do you think a cat is delicious to a triceratops? 
+Oh no! They eat plants! 
+What's the problem, then? 
+Have you noticed the size of their feet? 
+Are you worried their feet will be smelly? 
+No! I'm worried they're going to tread on us! 
+So what are you going to do, Cody Cat? 
+I'm going to code, of course! 
+How are you going to do it?
+
+I'm going to say IF triceratops foot lifts above me, THEN the triceratops will pause and step back gently. 
+if (triceratops foot above cat) { pause; step back gently; 
+} 
+Wow, Cody Cat! I do believe you've invented the world's first prehistoric protection bubble!
+
+So, are you happy? 
+Oh yes, look at all those beautiful triceratops! They're magnificent! 
+They really are, Cody Cat. 
+I love the way they're sparkling in the sunshine, beneath all the rainbows... 
+Rainbows? 
+Yes! Look at all the rainbows in the sky! 
+There must be a hundred of them! Don't you think that's a bit too many... scientifically? 
+Is it? 
+I've never seen more than two or three at once. 
+Argh catnip! It must be a glitch. A rainbow glitch. 
+So what are you going to do, Cody Cat? 
+I'm going to code! 
+How are you going to do it?
+
+Well, rainbows come when there's rain. But there's not even any rain right now. 
+I'm going to say IF rainbows appear with no rain, THEN remove the rainbow. 
+if (rainbow appears without rain) { remove rainbow 
+} 
+You did it, Cody Cat. I guess that's better for the environment. 
+Though they were REALLY PRETTY...
+
+But wait a second Cody Cat! 
+Cody Cat? 
+Where are you, Cody Cat? 
+Sorry! Did you feel that earthquake? It opened up a big crack in the earth! 
+I fell in!
+
+I know how to fix it! 
+if (earthquake detected) { 
+deactivate seismic 
+activity; 
+}
+
+Phew, Cody Cat! You saved the time machine! 
+Let's hop in and go back home. 
+After all these weather adventures, we don't want to be here when the giant asteroid hits!

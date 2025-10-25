@@ -1,0 +1,28 @@
+Student 1 : Hello, I am a fresh green cabbage.
+ Who are you?
+Student 2 : I am a smart white rabbit, and I eat
+ cabbages. . . . .
+Student 1 : Aaaa...... (Runs away.)
+Student 3 : Hello, I am a juicy crunchy carrot.
+ Who are you?
+Student 2 : I am a smart white rabbit, and I
+ eat carrots. . . .
+Student 3 : Aaaa..... (Runs away.)
+Student 4 : Hello, I am a big red tomato.
+ Who are you?
+Student 2 : I am a smart white rabbit, and I
+ eat tomatoes. . . . .
+Student 4 : Aaaa......... (Runs away.)
+
+Student 5 : Hello, I am a green leafy vegetable.
+ Who are you?
+Student 2 : I am a smart white rabbit, and I eat
+vegetables . . . .
+Student 5 : Aaaa.......... (Runs away.)
+Student 6 : Hello, who are you?
+Student 2 : I am a smart white rabbit, and I eat vegetables.
+ Who are you?
+Student 6 : I am a super-duper clever fox, and I eat smart white
+ rabbits. . . .
+Student 2 : Aaaa, (Runs away.)
+Student 6 : (Runs after student 2.)

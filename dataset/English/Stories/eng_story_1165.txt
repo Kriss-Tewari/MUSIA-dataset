@@ -1,0 +1,11 @@
+Ahmed : Kaka, I want a set of crayons. Do you have it?
+Shopkeeper : Yes, I do.
+Ahmed : How many colours are there in a set?
+Shopkeeper : Twelve.
+Ahmed : How much does it cost?
+Shopkeeper : Twenty rupees.
+Ahmed : Please give me one set.
+Shopkeeper : Here it is.
+Ahmed : Thank you.
+ Here is your money.
+Shopkeeper : Thank you. Visit again.
