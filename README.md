@@ -45,7 +45,7 @@ dataset/
 
 ## Benchmarking Baseline
 
-We provide a baseline experiment in `baseline.py` to evaluate story visualization performance using this dataset. This script demonstrates:
+We provide a baseline experiment in `baseline.ipynb` to evaluate story visualization performance using this dataset. This script demonstrates:
 
 - Loading the dataset
 - Preprocessing narratives and images
